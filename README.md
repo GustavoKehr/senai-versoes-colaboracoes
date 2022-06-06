@@ -4,4 +4,4 @@ senai
 
 readme de exemplo 
 
-lembrei do comando: git status
+teste de merg com o Meld
