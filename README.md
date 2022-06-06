@@ -3,6 +3,5 @@
 senai
 
 
-lembrei do comando : git commit
-lembrei do comando: git status
+testando em outra branch para unificação
 
