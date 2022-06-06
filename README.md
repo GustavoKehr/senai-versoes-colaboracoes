@@ -4,5 +4,5 @@ senai
 
 
 lembrei do comando : git commit
-lembreid o comando: git status
+lembrei do comando: git status
 
