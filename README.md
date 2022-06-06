@@ -2,4 +2,4 @@
 
 senai
 
-lembrei do comendo : git commit
+lembrei do comando : git commit
