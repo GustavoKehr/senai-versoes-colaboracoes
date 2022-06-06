@@ -4,4 +4,4 @@
 
 🐱‍👤 I love games, sports, animals and my girlfriend
 
-🐱‍💻 If you want talk to me: Discord Kehr#8191
+🐱‍💻 If you want talk to me, here my Discord: Kehr#8191
