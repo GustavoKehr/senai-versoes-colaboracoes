@@ -2,4 +2,6 @@
 
 senai
 
-readme de exemplolembreid o comando: git status
+readme de exemplo 
+
+lembrei do comando: git status
