@@ -1,3 +1,5 @@
 # senai-versoes-colaboracoes
+
 senai
-readme de exemplo
+
+readme de exemplolembreid o comando: git status
