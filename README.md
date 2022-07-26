@@ -2,3 +2,4 @@
 
 Alteração pela branch
 
+Adicionando comando "git add"
