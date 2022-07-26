@@ -20,7 +20,7 @@ git branch : O comando git branch permite criar, listar, renomear e excluir rami
 
 git tag : O comando git tag é em geral usado para capturar um ponto no histórico que é usado para uma versão marcada 
 
-====================================================================================================================
+============================================================================
 
 
 Alteração pela branch
