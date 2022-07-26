@@ -3,3 +3,5 @@
 Alteração pela branch
  
 Adicionando comando "git status"
+
+Adicionando comando "git commit"
