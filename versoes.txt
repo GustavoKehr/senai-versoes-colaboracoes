@@ -1,3 +1,7 @@
 versão v1.0 da linha de código
 
+
 adicionando comando "git push"
+
+uptade da linha de códigos com novas funcionalidades em teste
+
